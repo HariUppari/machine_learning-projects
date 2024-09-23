@@ -1,4 +1,4 @@
-# machine_learning-projects/
+## machine_learning-projects/Dominant Color Extraction using K-Means Algorithm
 
 Introduction
 
@@ -11,3 +11,5 @@ This project focuses on dominant color extraction from images using the K-Means 
 - Performance Analysis - Adjusting the number of clusters to observe how it affects the extracted dominant colors and the overall accuracy of color representation.
 
 The project demonstrates how machine learning algorithms like K-Means can be used to process images and extract meaningful information such as dominant colors. This approach is commonly used in image processing, computer vision, and design fields to analyze and manipulate color data.
+
+## machine_learning-projects/Dominant Color Extraction using K-Means Algorithm
